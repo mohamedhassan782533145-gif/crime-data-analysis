@@ -1,2 +1,1 @@
-# crime-data-analysis
-Data analysis project using Python, NumPy, and Pandas to analyze offenses data from CSV files and extract useful insights.
+Crime Data Analysis project using Python, Pandas, and NumPy to clean, analyze, and extract meaningful insights from crime datasets. This project includes data exploration, statistical analysis, and visualization to understand crime patterns and trends.
